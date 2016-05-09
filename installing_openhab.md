@@ -45,6 +45,7 @@ Library			Public
 5. Move the downloaded file. Assuming that you have downloaded the file in your download folder, the command will be : 
 ```cal:~ admin$ mv Downloads/openhab-online-2 OpenHab
 ```
+
 6. Use the "ls" command in order to check that your directory exists now.
 
 ```cal:~ callas$ ls
@@ -93,9 +94,9 @@ exec "${DIRNAME}/runtime/karaf/bin/karaf" "${@}"
 ^X Exit         ^J Justify      ^W Where Is     ^V Next Page    ^U UnCut Text   ^T To Spell
 ```
 
-15. Use the cursor key in order to move down just the line before `DIRNAME=`dirname "$0"`
+15. Use the cursor key in order to move down just the line before `DIRNAME=`dirname "$0"`.
 
-16. Type the two following line (use the enter key at the end of the first line) :
+17. 16. Type the two following line (use the enter key at the end of the first line) :
 
 ```export OPENHAB_HTTP_PORT=8011
 export OPENHAB_HTTPS_PORT=8444
@@ -136,6 +137,7 @@ exec "${DIRNAME}/runtime/karaf/bin/karaf" "${@}"
 
 Launching OpenHab for the first time
 ============================================
+
 We are going to launch OpenHab for the first time, in order to check that our install is successful.
 
 21. In the terminal window, type ./start.sh
