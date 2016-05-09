@@ -55,17 +55,30 @@ Working with the Z-Wave devices will be done in __HABmin__.
 
 ### Finding the port name
 
+* Open the terminal window
+* Type the following command `ls \dev\tty*`
+* Depending on your USB device, the name can look like ```
+```
+/dev/tty.SLAB_USBtoUART
+/dev/tty.usbmodem14111
+```
 
+The port name that is displayed is the parameter needed 
 
 ### Setting the port name
 
 * Click on Port configuration
+* Fill the serial port with the port name
 
-![](zwave-controller-config-6.png)
+![](zwave-controller-config-9.png)
 
-* The main parameter to find is the Port Configuration.
+* Click on save
+* After a few seconds, the thing icon becomes greens
 
-> If you made any kind of mistake in the port configuration, the log file will contains this kind of lines:
+![](zwave-controller-config-A.png)
+
+> If you made any kind of mistake in the port configuration, the icon will become red.
+> The log file will contain this kind of lines:
 ```
 2016-05-09 19:14:27.162 [INFO ] [ing.zwave.handler.ZWaveSerialHandler] - Stopped ZWave serial handler
 2016-05-09 19:14:27.163 [INFO ] [ing.zwave.handler.ZWaveSerialHandler] - Connecting to serial port 'usbmodem14111'
