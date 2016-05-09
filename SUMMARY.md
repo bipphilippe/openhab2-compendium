@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Introduction](chapter1.md)
+* [Installing OpenHab](chapter1.md)
 
