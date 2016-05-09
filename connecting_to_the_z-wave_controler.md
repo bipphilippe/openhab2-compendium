@@ -54,7 +54,8 @@ Working with the Z-Wave devices will be done in __HABmin__.
 ## Configuring the port
 
 ### Finding the port name
-
+
+
 
 ### Setting the port name
 
