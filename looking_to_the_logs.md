@@ -10,10 +10,9 @@ To find them :
 * navigate inside the OpenHab folder,
 * navigate inside the userdate folder,
 * navigate inside the logs folder
-
 ![](log folders.png)
 
 * Inside the logs folder, double-click on the `openhab.log` file. The file will be displayed inside the console application.
-
+![](openhab_log.png)
 
 The console will display the messages as soon as they will be logged. Keep this window somewhere in order to take a look inside when it is needed.
