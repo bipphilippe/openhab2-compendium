@@ -40,7 +40,7 @@ Working with the Z-Wave devices will be done in __HABmin__.
 ```
 > So, do not panic and continue
 
-## Configuring the port
+## Configuring it
 
 * On the left menu, click again on  __Things configuration__, the controller is now in the list :
 
@@ -51,11 +51,22 @@ Working with the Z-Wave devices will be done in __HABmin__.
 
 ![](zwave-controller-config-5.png)
 
+## Configuring the port
+
 * Click on Port configuration
 
 ![](zwave-controller-config-6.png)
 
-The main parameter to find is the Port Configuration.
+* The main parameter to find is the Port Configuration.
 
 
+
+> If you made any kind of mistake in the port configuration, the log file will contains this kind of lines:
+```
+2016-05-09 19:14:27.162 [INFO ] [ing.zwave.handler.ZWaveSerialHandler] - Stopped ZWave serial handler
+2016-05-09 19:14:27.163 [INFO ] [ing.zwave.handler.ZWaveSerialHandler] - Connecting to serial port 'usbmodem14111'
+2016-05-09 19:14:27.163 [INFO ] [smarthome.event.ThingUpdatedEvent   ] - Thing 'zwave:serial_zstick:154966faddf' has been updated.
+2016-05-09 19:14:27.165 [INFO ] [me.event.ThingStatusInfoChangedEvent] - 'zwave:serial_zstick:154966faddf' changed from OFFLINE (COMMUNICATION_ERROR): Serial Error: Port tty.usbmodem14111 does not exist to OFFLINE
+2016-05-09 19:14:27.166 [INFO ] [me.event.ThingStatusInfoChangedEvent] - 'zwave:serial_zstick:154966faddf' changed from OFFLINE to OFFLINE (COMMUNICATION_ERROR): Serial Error: Port usbmodem14111 does not exist
+```
 
