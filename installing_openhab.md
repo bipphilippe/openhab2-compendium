@@ -1,15 +1,19 @@
 Setting up OpenHab
 -------------------------------
 
-Warnings :
+Warnings
+=====
 
 In this chapter:
 - I have chosen to download the latest nigth build, as OpenHab 2 is in a beta phase,
 - I have decided to use the online version of OpenHab.
 
+Installing OpenHab
+========
+
 To do this :
 
-1. Go to the following site (it contains the latest version) : (https://openhab.ci.cloudbees.com/job/openHAB-Distribution/).
+1. Go to the following site (it contains the latest version) : `(https://openhab.ci.cloudbees.com/job/openHAB-Distribution/).`
 2. Click on the link : `openhab-online-2.0.0-SNAPSHOT.zip`, to download it in your "download" folder.
 3. Open the terminal window.
 3. Choose a folder name to host your install. The directory will be created in your home folder. Be aware that the path to this folder, and the name of the folder itself, __must not contain any space character__ in order to prevent this classical cause of crash. The mane chosen here is "OpenHab".
