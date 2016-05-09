@@ -28,6 +28,7 @@ Installing this binding is quite straightforward. It is to be done through the P
 ![](paper_ui_welcome.png)
 
 * In the left column, select __Extensions__. The list of the bindings appears.
+
 ![](extensions_bindings.png)
 
 
@@ -52,10 +53,12 @@ HABmin is not yet integrated to the Karaf architecture. So, we have to install i
 
 * Search for the latest build of HABmin 2 at the adress [https://github.com/cdjackson/HABmin2/tree/master/output]
 
-* Click on the org.openhab.ui.habmin_2.0.0.SNAPSHOT-0.1.4.jar link, this screen appears :
+* Click on the org.openhab.ui.habmin_2.0.0.SNAPSHOT-0.1.4.jar link, this screen appears:
+
 ![](habmin_download_1.png)
 
 * At the left on the screen __click on the RAW__ button. Other way of downloading HABmin2 will corrupt the software.
+
 ![](habmin_download_2.png)
 
 * The download finished, back to the terminal, at the OpenHab> prompt :
