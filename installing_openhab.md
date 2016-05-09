@@ -63,7 +63,6 @@ cal:OpenHab admin$ nano start.sh
 ```
 
 14. Your screen should display the following.
-
 ```
 GNU nano 2.0.6                    File: start.sh
 #!/bin/sh
