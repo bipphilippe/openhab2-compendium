@@ -53,6 +53,11 @@ Working with the Z-Wave devices will be done in __HABmin__.
 
 ## Configuring the port
 
+### Finding the port name
+
+
+### Setting the port name
+
 * Click on Port configuration
 
 ![](zwave-controller-config-6.png)
