@@ -7,4 +7,3 @@ This is done thru 3 steps :
 * installing OpenHab 2 itself
 * Installing Z-Wave & HABmin 2
 
-Warnings :
