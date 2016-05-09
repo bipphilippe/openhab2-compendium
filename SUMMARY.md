@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Z-Wave and HABadmin](z-wave_and_habadmin.md)
 * [Installing OpenHab](chapter1.md)
    * [Checking Java](checking_java.md)
    * [Installing OpenHab](installing_openhab.md)
