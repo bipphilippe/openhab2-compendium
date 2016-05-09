@@ -94,6 +94,8 @@ HABmin is not yet integrated to the Karaf architecture. So, we have to install i
 	> cal:OpenHab admin$ mv ../Downloads/org.openhab.ui.habmin_2.0.0.SNAPSHOT-0.1.4.jar addons
 ```
 
+* Launch again OpenHab 
+
 > Time for a trick
 >
 > _org.openhab.ui.habmin 2.0.0.SNAPSHOT-0.1.4.jar_  can be a little difficult to type. Terminal allows us to use auto completion to avoid that :
