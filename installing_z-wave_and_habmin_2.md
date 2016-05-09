@@ -94,10 +94,49 @@ HABmin is not yet integrated to the Karaf architecture. So, we have to install i
 	> cal:OpenHab admin$ mv ../Downloads/org.openhab.ui.habmin_2.0.0.SNAPSHOT-0.1.4.jar addons
 ```
 
-* Launch again OpenHab 
 
 > Time for a trick
 >
 > _org.openhab.ui.habmin 2.0.0.SNAPSHOT-0.1.4.jar_  can be a little difficult to type. Terminal allows us to use auto completion to avoid that :
 > just type the beginning, i.e. : _mv ../Downloads/org.op_ and press the tab key. Terminal will complete the name for you.
+
+Launching OpenHab for the second time
+====================================
+
+We are going to launch OpenHab for the first time, in order to check that our install is successful.
+
+* In the terminal window, type ./start.sh
+```
+cal:OpenHab callas$ ./start.sh
+```
+
+* Messages are displayed, wait until the "openhab>" prompt appears.
+
+```
+cal:OpenHab admin$ ./start.sh
+Launching the openHAB runtime...
+
+   	                      __  _____    ____
+  ____  ____  ___  ____  / / / /   |  / __ )
+ / __ \/ __ \/ _ \/ __ \/ /_/ / /| | / __  |
+/ /_/ / /_/ /  __/ / / / __  / ___ |/ /_/ /
+\____/ .___/\___/_/ /_/_/ /_/_/  |_/_____/
+    /_/                        2.0.0-SNAPSHOT
+
+Hit '<tab>' for a list of available commands
+and '[cmd] --help' for help on a specific command.
+Hit '<ctrl-d>' or type 'system:shutdown' or 'logout' to shutdown openHAB.
+
+openhab>
+```
+
+* Without closing the terminal, open your favorite web browser and type the following url : `http://localhost:8011`, you should see the openHab welcome screen, __with a new UI__ : __HABMIN__.
+
+![](OpenHab_Admin_welcome.png)
+
+
+> Which browser should I use ?
+
+> Safari is supported by OpenHab, but the fact is that browser used by the OpenHab developer community - and by the owner of the ZWave plugin - is Google Chrome.
+> I recommend then Google Chrome, as OpenHab 2 is in a beta phase.
 
