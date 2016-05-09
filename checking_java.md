@@ -1,7 +1,7 @@
 Checking Java
 ===============================
 
-Before anything else, check that the correct version of Java is installed.
+Before anything else, check that the correct version of Java has been installed.
 
 To do this :
 
