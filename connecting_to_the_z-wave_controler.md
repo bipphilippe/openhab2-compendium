@@ -19,15 +19,11 @@ Working with the Z-Wave devices will be done in __HABmin__.
 
 * In the following screen, choose __Z-Wave Binding__ :
 
+![](zwave-controller-config-2.png)
 
+* You can then select : __Z-Wave Serial Controller__ :
 
-* In the following screen, choose __Manually Add things__ :
- 
-
-
-* You can then select : "Z-Wave Serial Controller" :
-
-
+![](zwave-controller-config-3.png)
 
 * And you are ready to configure it.
 
@@ -35,7 +31,7 @@ Working with the Z-Wave devices will be done in __HABmin__.
 
 * The following screen allows you to configure the Thing.
 
-
+![](zwave-controller-config-7.png)
 
 ### Configuring the port
 
