@@ -25,11 +25,20 @@ Installing this binding is quite straightforward. It is to be done through the P
 
 * Click on __Paper UI__ tile, you should see the following screen :
 
+![](paper_ui_welcome.png)
+
 * In the left column, select __Extensions__. The list of the bindings appears.
+![](extensions_bindings.png)
+
+
 
 * Scroll down to Z-Wave binding, click on __install__ (at the right).
 
+![](extensions_z_wave.png)
+
 * After some times, the Z-Wave binding is installed and the display has changed. The logo of the binding is now blue, and "uninstall" has replaced "install".
+
+![](extension_z_wave_installed.png)
 
 > After a reasonable wait, if the progress bar is still on the screen and nothing else has changed on the display, try to refresh the page.
 
@@ -44,8 +53,10 @@ HABmin is not yet integrated to the Karaf architecture. So, we have to install i
 * Search for the latest build of HABmin 2 at the adress [https://github.com/cdjackson/HABmin2/tree/master/output]
 
 * Click on the org.openhab.ui.habmin_2.0.0.SNAPSHOT-0.1.4.jar link, this screen appears :
+![](habmin_download_1.png)
 
 * At the left on the screen __click on the RAW__ button. Other way of downloading HABmin2 will corrupt the software.
+![](habmin_download_2.png)
 
 * The download finished, back to the terminal, at the OpenHab> prompt :
 
