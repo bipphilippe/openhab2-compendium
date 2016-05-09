@@ -1,10 +1,6 @@
 Setting up OpenHab
 -------------------------------
 
-
-Setting up OpenHab
-===============================
-
 Warnings :
 
 In this chapter:
