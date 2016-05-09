@@ -40,17 +40,20 @@ Working with the Z-Wave devices will be done in __HABmin__.
 ```
 > So, do not panic and continue
 
-## Configuring it
+## Configuring the port
 
 * On the left menu, click again on  __Things configuration__, the controller is now in the list :
 
+![](zwave-controller-config-4.png)
 
-
+* Click on the Controller
 * The following screen allows you to configure the Thing.
 
+![](zwave-controller-config-5.png)
 
+* Click on Port configuration
 
-### Configuring the port
+![](zwave-controller-config-6.png)
 
 The main parameter to find is the Port Configuration.
 
