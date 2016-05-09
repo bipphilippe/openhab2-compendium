@@ -16,10 +16,11 @@ To do this :
 1. Go to the following site (it contains the latest version) : `(https://openhab.ci.cloudbees.com/job/openHAB-Distribution/).`
 2. Click on the link : `openhab-online-2.0.0-SNAPSHOT.zip`, to download it in your "download" folder.
 3. Open the terminal window.
-3. Choose a folder name to host your install. The directory will be created in your home folder. Be aware that the path to this folder, and the name of the folder itself, __must not contain any space character__ in order to prevent this classical cause of crash. The mane chosen here is "OpenHab".
-4. Use the "ls" command in order to check that your directory does not exists yet.
+3. Choose a folder name to host your install. The directory will be created in your home folder. Be aware that the path to this folder, and the name of the folder itself, __must not contain any space character__ in order to prevent this classical cause of crash. The mane chosen here is `OpenHab`.
+4. Use the `ls` command in order to check that your directory does not exists yet.
 
-```cal:~ callas$ ls
+```
+cal:~ callas$ ls
 Desktop			Movies
 Documents		Music
 Downloads		Pictures
