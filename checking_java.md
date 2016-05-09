@@ -6,8 +6,7 @@ Before anything else, check that the correct version of Java has been installed.
 To do this :
 
 * Open the terminal window
-* Type the following command.
-	java -version
+* Type the following command `java -version`
 * You should see something like this :
 ```
 cal:~ callas$ java -version
