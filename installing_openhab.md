@@ -30,7 +30,7 @@ In this chapter:
 To do this :
 
 1. Go to the following site (it contains the latest version) : (https://openhab.ci.cloudbees.com/job/openHAB-Distribution/).
-2. Click on the link : `openhab-online-2.0.0-SNAPSHOT.zip`, in order to download it in your "download" folder.
+2. Click on the link : `openhab-online-2.0.0-SNAPSHOT.zip`, to download it in your "download" folder.
 3. Open the terminal window.
 3. Choose a folder name to host your install. The directory will be created in your home folder. Be aware that the path to this folder, and the name of the folder itself, __must not contain any space character__ in order to prevent this classical cause of crash. The mane chosen here is "OpenHab".
 4. Use the "ls" command in order to check that your directory does not exists yet.
@@ -39,18 +39,20 @@ To do this :
 Desktop			Movies
 Documents		Music
 Downloads		Pictures
-Library			Public```
+Library			Public
+```
 
 5. Move the downloaded file. Assuming that you have downloaded the file in your download folder, the command will be : 
 ```cal:~ admin$ mv Downloads/openhab-online-2 OpenHab
 ```
 6. Use the "ls" command in order to check that your directory exists now.
 
-	cal:~ callas$ ls
-	Desktop			Movies	Public
-	Documents		Music
-	Downloads		OpenHab
-	Library			Pictures
+```cal:~ callas$ ls
+Desktop			Movies	Public
+Documents		Music
+Downloads		OpenHab
+Library			Pictures
+```
 
 Tweaking the install
 ================================
@@ -59,106 +61,111 @@ We have great chances that the standard OpenHab port, the port 80, is already us
 
 11. Move inside the OpenHab folder using the "cd" command.
 
-	cal:~ callas$ cd OpenHab/
+```cal:~ callas$ cd OpenHab/
+```
 
 12. Use the "ls" command in order to check what is inside.
 
-	cal:OpenHab admin$ ls
-	LICENSE.TXT	conf		start.bat	start_debug.bat	userdata
-	addons		runtime		start.sh	start_debug.sh
+```cal:OpenHab admin$ ls
+LICENSE.TXT	conf		start.bat	start_debug.bat	userdata
+addons		runtime		start.sh	start_debug.sh
+```
 
-13. Edit the start batch (start.sh), using the text editor nano
+13. Edit the start batch (start.sh), using the text editor `nano`
 
-	cal:OpenHab admin$ __nano start.sh__
+```cal:OpenHab admin$ nano start.sh
+```
 
 14. Your screen should display the following :
 
-	GNU nano 2.0.6                    File: start.sh
-	#!/bin/sh
+```GNU nano 2.0.6                    File: start.sh
+#!/bin/sh
 
-	echo Launching the openHAB runtime...
+echo Launching the openHAB runtime...
 
-	DIRNAME=`dirname "$0"`
-	exec "${DIRNAME}/runtime/karaf/bin/karaf" "${@}"
-
-
+DIRNAME=`dirname "$0"`
+exec "${DIRNAME}/runtime/karaf/bin/karaf" "${@}"
 
 
-	                                        [ Read 6 lines ]
-	^G Get Help     ^O WriteOut     ^R Read File    ^Y Prev Page    ^K Cut Text     ^C Cur Pos
-	^X Exit         ^J Justify      ^W Where Is     ^V Next Page    ^U UnCut Text   ^T To Spell
 
-15. Use the cursor key in order to move down just the line before :
+                                        [ Read 6 lines ]
+^G Get Help     ^O WriteOut     ^R Read File    ^Y Prev Page    ^K Cut Text     ^C Cur Pos
+^X Exit         ^J Justify      ^W Where Is     ^V Next Page    ^U UnCut Text   ^T To Spell
+```
 
-	DIRNAME=`dirname "$0"`
+15. Use the cursor key in order to move down just the line before `DIRNAME=`dirname "$0"`
 
 16. Type the two following line (use the enter key at the end of the first line) :
 
-	export OPENHAB_HTTP_PORT=8011
-	export OPENHAB_HTTPS_PORT=8444
+```export OPENHAB_HTTP_PORT=8011
+export OPENHAB_HTTPS_PORT=8444
+```
 
 17. Your screen should now display something like :
-	GNU nano 2.0.6                    File: start.sh                                    Modified
+```GNU nano 2.0.6                    File: start.sh                                    Modified
 
-	#!/bin/sh
+#!/bin/sh
 
-	export OPENHAB_HTTP_PORT=8011
-	export OPENHAB_HTTPS_PORT=8444
+export OPENHAB_HTTP_PORT=8011
+export OPENHAB_HTTPS_PORT=8444
 
-	echo Launching the openHAB runtime...
+echo Launching the openHAB runtime...
 
-	DIRNAME=`dirname "$0"`
-	exec "${DIRNAME}/runtime/karaf/bin/karaf" "${@}"
+DIRNAME=`dirname "$0"`
+exec "${DIRNAME}/runtime/karaf/bin/karaf" "${@}"
 
 
 
-	^G Get Help     ^O WriteOut     ^R Read File    ^Y Prev Page    ^K Cut Text     ^C Cur Pos
-	^X Exit         ^J Justify      ^W Where Is     ^V Next Page    ^U UnCut Text   ^T To Spell
+^G Get Help     ^O WriteOut     ^R Read File    ^Y Prev Page    ^K Cut Text     ^C Cur Pos
+^X Exit         ^J Justify      ^W Where Is     ^V Next Page    ^U UnCut Text   ^T To Spell
+```
 
-18. Save your modification by pressing control-o, and then "enter". The "Modified" mention that appeared at the top right of the screen after your first modifications has now disappeared.
+18. Save your modification by pressing control-o, and then "enter". The `Modified` mention that appeared at the top right of the screen after your first modifications has now disappeared.
 
 19. Close nano by pressing control-x
 
 20. Your terminal window should looks like :
 
-	cal:~ admin$ cd OpenHab/
+```cal:~ admin$ cd OpenHab/
 	cal:OpenHab callas$ ls
 	LICENSE.TXT	conf		start.bat	start_debug.bat	userdata
 	addons		runtime		start.sh	start_debug.sh
 	cal:OpenHab callas$ nano start.sh
 	cal:OpenHab callas$
+```
 
 Launching OpenHab for the first time
-===============================================
-
+============================================
 We are going to launch OpenHab for the first time, in order to check that our install is successful.
 
 21. In the terminal window, type ./start.sh
 
-	cal:~ admin$ cd OpenHab/
-	cal:OpenHab callas$ ls
-	LICENSE.TXT	conf		start.bat	start_debug.bat	userdata
-	addons		runtime		start.sh	start_debug.sh
-	cal:OpenHab callas$ nano start.sh
-	cal:OpenHab callas$ __./start.sh__
+```cal:~ admin$ cd OpenHab/
+cal:OpenHab callas$ ls
+LICENSE.TXT	conf		start.bat	start_debug.bat	userdata
+addons		runtime		start.sh	start_debug.sh
+cal:OpenHab callas$ nano start.sh
+cal:OpenHab callas$ __./start.sh__
+```
 
 22. Messages are displayed, wait until the "openhab>" prompt appears.
 
-	cal:OpenHab admin$ ./start.sh
-	Launching the openHAB runtime...
+```cal:OpenHab admin$ ./start.sh
+Launching the openHAB runtime...
 
-    	                      __  _____    ____
-	  ____  ____  ___  ____  / / / /   |  / __ )
-	 / __ \/ __ \/ _ \/ __ \/ /_/ / /| | / __  |
-	/ /_/ / /_/ /  __/ / / / __  / ___ |/ /_/ /
-	\____/ .___/\___/_/ /_/_/ /_/_/  |_/_____/
-	    /_/                        2.0.0-SNAPSHOT
+   	                      __  _____    ____
+  ____  ____  ___  ____  / / / /   |  / __ )
+ / __ \/ __ \/ _ \/ __ \/ /_/ / /| | / __  |
+/ /_/ / /_/ /  __/ / / / __  / ___ |/ /_/ /
+\____/ .___/\___/_/ /_/_/ /_/_/  |_/_____/
+    /_/                        2.0.0-SNAPSHOT
 
-	Hit '<tab>' for a list of available commands
-	and '[cmd] --help' for help on a specific command.
-	Hit '<ctrl-d>' or type 'system:shutdown' or 'logout' to shutdown openHAB.
+Hit '<tab>' for a list of available commands
+and '[cmd] --help' for help on a specific command.
+Hit '<ctrl-d>' or type 'system:shutdown' or 'logout' to shutdown openHAB.
 
-	openhab>
+openhab>
+```
 
 23. Without closing the terminal, open your favorite web browser and type the following url : [http://localhost:8011], you should see the openHab welcome screen.
 
