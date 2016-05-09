@@ -19,7 +19,7 @@ We install Z-Wave binding _before_ HABmin as HABmin relies on the first one.
 
 Installing this binding is quite straightforward. It is to be done through the Paper UI of OpenHab.
 
-1. Open your browser web at [http://localhost:8011], you should see the following screen :
+1. Open your browser web at `http://localhost:8011`, you should see the following screen :
 
 ![OpenHab 2 Welcome screen](Accueil_Openhab.png)
 
@@ -27,7 +27,7 @@ Installing this binding is quite straightforward. It is to be done through the P
 
 3. In the left column, select __Extensions__. The list of the bindings appears.
 
-4. Scroll down to Z-Wave binding, click on "install" (at the right).
+4. Scroll down to Z-Wave binding, click on __install__ (at the right).
 
 5. After some times, the Z-Wave binding is installed and the display has changed. The logo of the binding is now blue, and "uninstall" has replaced "install".
 
