@@ -11,12 +11,11 @@ Working with the Z-Wave devices will be done in __HABmin__.
 
 ## Adding the Thing
 
-* From OpenHab welcome screen, choose the __HABmin__.
-* Click on Inbox :
+* From OpenHab welcome screen, choose the __HABmin__ tile.
+* On the left menu, click on __Configuration__ and __Things configuration__.
+* The controller must be added manually. Click on the __+__ sign, at the top of the screen.
 
-
-
-* The controller must be added manually. Click on the blue +.
+![](zwave-controller-config-1.png)
 
 * In the following screen, choose __Z-Wave Binding__ :
 
