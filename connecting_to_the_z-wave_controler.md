@@ -4,14 +4,14 @@
 
 The Z-wave controller is the masterpiece of the Z-Wave network.
 
-The Z-Wave bindings relies on it to dialog with the Z-Wave devices. Adding it is made from the __Paper UI__.
+The Z-Wave bindings relies on it to dialog with the Z-Wave devices. Adding it is made from the __HABmin__.
 
 Working with the Z-Wave devices will be done in __HABmin__.
 
 
 ## Adding the Thing
 
-* From OpenHab welcome screen, choose the __Paper UI__.
+* From OpenHab welcome screen, choose the __HABmin__.
 * Click on Inbox :
 
 
