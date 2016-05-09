@@ -5,10 +5,10 @@ Before anything else, check that the correct version of Java has been installed.
 
 To do this :
 
-1. Open the terminal window
-2. Type the following command.
+* Open the terminal window
+* Type the following command.
 	java -version
-3. You should see something like this :
+* You should see something like this :
 ```
 cal:~ callas$ java -version
 java version "1.8.0 73"
