@@ -32,6 +32,12 @@ Working with the Z-Wave devices will be done in __HABmin__.
 * Click on save, and you are ready to configure it.
 
 > When click on __Save__, nothing change on the screen, but the log file confirms that a next thing has been defined.
+> The log files looks like:
+```
+2016-05-09 18:53:33.987 [INFO ] [smarthome.event.ThingAddedEvent     ] - Thing 'zwave:serial_zstick:154966faddf' has been added.
+2016-05-09 18:53:33.990 [ERROR] [ing.zwave.handler.ZWaveSerialHandler] - ZWave port is not set.
+2016-05-09 18:53:33.990 [INFO ] [me.event.ThingStatusInfoChangedEvent] - 'zwave:serial_zstick:154966faddf' changed from UNINITIALIZED to INITIALIZING
+```
 > So, do not panic and continue
 
 ## Configuring it
