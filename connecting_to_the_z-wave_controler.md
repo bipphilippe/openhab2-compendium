@@ -25,13 +25,20 @@ Working with the Z-Wave devices will be done in __HABmin__.
 
 ![](zwave-controller-config-3.png)
 
-* And you are ready to configure it.
+* In the following screen, you can change the __label__ value to the name you want to give to the controller.
+
+![](zwave-controller-config-7.png)
+
+* Click on save, and you are ready to configure it.
+
+> When click on __Save__, nothing change on the screen, but the log file confirms that a next thing has been defined.
+> So, do not panic and continue
 
 ## Configuring it
 
 * The following screen allows you to configure the Thing.
 
-![](zwave-controller-config-7.png)
+
 
 ### Configuring the port
 
