@@ -14,21 +14,21 @@ Working with the Z-Wave devices will be done in __HABmin__.
 * From OpenHab welcome screen, choose the __Paper UI__.
 * Click on Inbox :
 
-![](zwave_add_cntrl_1.png)
+
 
 * The controller must be added manually. Click on the blue +.
 
 * In the following screen, choose __Z-Wave Binding__ :
 
-![](zwave_add_cntrl_2.png)
+
 
 * In the following screen, choose __Manually Add things__ :
  
-![](zwave_add_cntrl_3.png)
+
 
 * You can then select : "Z-Wave Serial Controller" :
 
-![](zwave_add_cntrl_4.png)
+
 
 * And you are ready to configure it.
 
@@ -36,7 +36,7 @@ Working with the Z-Wave devices will be done in __HABmin__.
 
 * The following screen allows you to configure the Thing.
 
-![](zwave_add_cntrl_5.png)
+
 
 ### Configuring the port
 
