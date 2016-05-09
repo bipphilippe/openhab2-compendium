@@ -9,7 +9,7 @@ In this chapter:
 - I have decided to use the online version of OpenHab.
 
 Installing OpenHab
-========
+=========
 
 To do this :
 
@@ -18,7 +18,6 @@ To do this :
 3. Open the terminal window.
 3. Choose a folder name to host your install. The directory will be created in your home folder. Be aware that the path to this folder, and the name of the folder itself, __must not contain any space character__ in order to prevent this classical cause of crash. The mane chosen here is `OpenHab`.
 4. Use the `ls` command in order to check that your directory does not exists yet.
-
 ```
 cal:~ callas$ ls
 Desktop			Movies
@@ -28,12 +27,13 @@ Library			Public
 ```
 
 5. Move the downloaded file. Assuming that you have downloaded the file in your download folder, the command will be : 
-```cal:~ admin$ mv Downloads/openhab-online-2 OpenHab
+```
+cal:~ admin$ mv Downloads/openhab-online-2 OpenHab
 ```
 
 6. Use the "ls" command in order to check that your directory exists now.
-
-```cal:~ callas$ ls
+```
+cal:~ callas$ ls
 Desktop			Movies	Public
 Documents		Music
 Downloads		OpenHab
@@ -46,25 +46,26 @@ Tweaking the install
 We have great chances that the standard OpenHab port, the port 80, is already used by some Mac Os tools or software. To avoid any issue, we will change the default port used in OpenHab install.
 
 11. Move inside the OpenHab folder using the "cd" command.
-
-```cal:~ callas$ cd OpenHab/
+```
+cal:~ callas$ cd OpenHab/
 ```
 
 12. Use the "ls" command in order to check what is inside.
-
-```cal:OpenHab admin$ ls
+```
+cal:OpenHab admin$ ls
 LICENSE.TXT	conf		start.bat	start_debug.bat	userdata
 addons		runtime		start.sh	start_debug.sh
 ```
 
 13. Edit the start batch (start.sh), using the text editor `nano`
-
-```cal:OpenHab admin$ nano start.sh
+```
+cal:OpenHab admin$ nano start.sh
 ```
 
-14. Your screen should display the following :
+14. Your screen should display the following.
 
-```GNU nano 2.0.6                    File: start.sh
+```
+GNU nano 2.0.6                    File: start.sh
 #!/bin/sh
 
 echo Launching the openHAB runtime...
@@ -79,9 +80,8 @@ exec "${DIRNAME}/runtime/karaf/bin/karaf" "${@}"
 ^X Exit         ^J Justify      ^W Where Is     ^V Next Page    ^U UnCut Text   ^T To Spell
 ```
 
-15. Use the cursor key in order to move down just the line before `DIRNAME=`dirname "$0"`.
-
-17. 16. Type the two following line (use the enter key at the end of the first line) :
+15. Use the cursor key in order to move down just the line before `DIRNAME='dirname "$0"'`.
+16. Type the two following line (use the enter key at the end of the first line) :
 
 ```export OPENHAB_HTTP_PORT=8011
 export OPENHAB_HTTPS_PORT=8444
