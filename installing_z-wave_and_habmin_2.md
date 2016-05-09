@@ -1,4 +1,4 @@
-Installing Z-Wave & HABmin 2
+Installing Z-Wave binding & HABmin 2
 -------------------------------
 
 Introduction
