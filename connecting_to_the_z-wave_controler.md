@@ -64,8 +64,6 @@ Working with the Z-Wave devices will be done in __HABmin__.
 
 * The main parameter to find is the Port Configuration.
 
-
-
 > If you made any kind of mistake in the port configuration, the log file will contains this kind of lines:
 ```
 2016-05-09 19:14:27.162 [INFO ] [ing.zwave.handler.ZWaveSerialHandler] - Stopped ZWave serial handler
