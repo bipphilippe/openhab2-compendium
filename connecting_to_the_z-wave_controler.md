@@ -42,6 +42,10 @@ Working with the Z-Wave devices will be done in __HABmin__.
 
 ## Configuring it
 
+* On the left menu, click again on  __Things configuration__, the controller is now in the list :
+
+
+
 * The following screen allows you to configure the Thing.
 
 
