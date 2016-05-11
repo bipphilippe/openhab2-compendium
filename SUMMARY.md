@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* OpenHab basics
 * [Installing OpenHab](chapter1.md)
    * [Checking Java](checking_java.md)
    * [Installing OpenHab](installing_openhab.md)
@@ -9,5 +10,4 @@
    * [Installing the extensions](installing_the_extensions.md)
    * [Connecting to the Z-Wave controler](connecting_to_the_z-wave_controler.md)
    * [Adding a new Thing](adding_a_new_thing.md)
-* OpenHab basics
 
