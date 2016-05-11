@@ -6,4 +6,4 @@ Doing so, I had to read dozen of pages of posts, articles and FAQ.
 
 It is shared with the community in order to avoid other people these longs readings and, hopefully, in order to see it enhanced by other contributors.
 
-Even if it is primarly focused on some bindings and extensions, as Z-Wave and HABmin 2, this book has been structured to be easy do extend.
+Even if it is primarily focused on some bindings and extensions, as Z-Wave and HABmin 2, this book has been structured to be easy do extend.
