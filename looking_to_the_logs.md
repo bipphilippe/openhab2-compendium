@@ -19,7 +19,18 @@ To find them :
 
 
 > The console will display the messages as soon as they will be logged. Keep this window somewhere in order to take a look inside when it is needed.
-
+>
 > We will use it to ckeck the Z-Wave dialogs.
+> 
+> A "clean" startup looks this way in the log file :
+>
+```
+2016-05-09 21:29:33.195 [INFO ] [arthome.ui.paper.internal.PaperUIApp] - Started Paper UI at /ui
+2016-05-09 21:29:33.252 [INFO ] [.dashboard.internal.DashboardService] - Started dashboard at /start
+2016-05-09 21:29:33.567 [INFO ] [ing.zwave.handler.ZWaveSerialHandler] - Serial port is initialized
+``` 
+
+
+
 
 

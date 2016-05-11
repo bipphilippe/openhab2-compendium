@@ -8,4 +8,5 @@
 * [Z-Wave and HABadmin](z-wave_and_habadmin.md)
    * [Installing the extensions](installing_the_extensions.md)
    * [Connecting to the Z-Wave controler](connecting_to_the_z-wave_controler.md)
+   * Adding a new Thing
 
