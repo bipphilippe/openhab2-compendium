@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * OpenHab basics
-   * Things, items and Co
+   * [Things, items and Co](things,_items_and_co.md)
 * [Installing OpenHab](chapter1.md)
    * [Checking Java](checking_java.md)
    * [Installing OpenHab](installing_openhab.md)
