@@ -21,7 +21,9 @@ The name of the item can be modified in the channels panel.
 
 The properties panel presents the Label of the Thing.
 
-You can change the label according, for example, the naming convention that we presented in the introduction.
+You can change the label making it more informative.
+
+The change is saved as soon as you select the *Save* button at the top of the windows.
 
 ## Configuration parameters panel
 
@@ -64,11 +66,11 @@ To personnalise item information, the *edit linked data* button opens the follow
 ![](add-node-40.png)
 
 This window allows to :
-* 
-change the label, making it more informative;
-modify the item type if needed;
-modify the category if needed.
+* change the label, making it more informative;
+* modify the item type if needed;
+* modify the category if needed.
 
+The modification are saved as soon as you select the *Save* button.
 
 
 
