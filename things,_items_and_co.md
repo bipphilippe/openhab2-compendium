@@ -34,6 +34,24 @@ So:
 
 ![](thing-device-naming.png)
 
+## Real Life example
+
+Real life *Things* comes sometimes with different kinds of items.
+
+Let's do a real life example with a device giving theses services :
+* A switch #1 that has :
+  * the switch #1, that we will use for ambient light,
+  * an instant power consumption value linked to the switch #1
+  * an total electricity consumption value linked to the switch #1
+* A switch #2 that has :
+  * the switch #2, that we will use for main light,
+  * an instant power consumption value linked to the switch #2
+  * An total electricity consumption value linked to the switch #2
+
+
+
+
+
 
 
 
