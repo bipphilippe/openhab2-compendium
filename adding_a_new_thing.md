@@ -68,17 +68,37 @@ You can change the label according, for example, the naming convention that we p
 
 ### Configuration parameters panel
 
-The content of this panel depends on the device model. It presents the configuration parameters of the device.
+This panel presents the configuration parameters of the device
+
+The content of this panel depends on the device model.
+
+The use of these parameters are described in the user's manual of the device itself.
+
+![](add-node-26.png)
+
+### Association group panel
+
+<<<< TO BE COMPLETED >>>>
+
+### Device configuration panel
+
+<<<< TO BE COMPLETED >>>>
 
 
+### Channels panel
 
-![](add-node-30.png)
+This panel is the key panel to configure the *Items*, as they are linked to chanels*
 
 ![](add-node-35.png)
 
 ![](add-node-40.png)
 
 ![](add-node-45.png)
+
+
+
+![](add-node-30.png)
+
 
 ![](add-node-50.png)
 
