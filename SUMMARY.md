@@ -12,5 +12,5 @@
    * [Connecting to the Z-Wave controler](connecting_to_the_z-wave_controler.md)
    * [Adding a new Thing](adding_a_new_thing.md)
    * [The ZWave Database](the_zwave_database.md)
-   * Configuring a Thing
+   * [Configuring a Thing](configuring_a_thing.md)
 
