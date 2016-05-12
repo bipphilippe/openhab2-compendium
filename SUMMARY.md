@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [OpenHab basics](openhab_basics.md)
    * [Things, items and Co](things,items_and_co_md.md)
-   * Sitemap
+   * [Sitemap](sitemap.md)
 * [Installing OpenHab](chapter1.md)
    * [Checking Java](checking_java.md)
    * [Installing OpenHab](installing_openhab.md)
