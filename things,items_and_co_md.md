@@ -36,9 +36,10 @@ So:
 
 ## Real Life example
 
-Real life *Things* comes sometimes with different kinds of items.
+Real life *Things* comes sometimes with different kinds of items and can offers much more that 2 *Items*.
 
-Let's do a real life example with a device giving theses services :
+Let's do a real life example with a device, inspired by the FIBARO double switch model. It can be described this way :
+
 * A switch #1 that has :
   * the switch #1, that we will use for main light,
   * an instant power consumption value linked to the switch #1
@@ -48,11 +49,9 @@ Let's do a real life example with a device giving theses services :
   * an instant power consumption value linked to the switch #2
   * An total electricity consumption value linked to the switch #2
 
-So, this one *Thing* will create 6 *Items*, according the following :
+So, this one *Thing* will create two sets of three *Items*, according the following :
 
 ![](name-device-example.png)
-
-
 
 
 
