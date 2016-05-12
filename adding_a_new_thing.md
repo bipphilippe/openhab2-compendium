@@ -17,11 +17,22 @@ If you click on it, the inbox pops up with the list of the newly detected Things
 
 ![](add-node-15.png)
 
-As you can see in the previous screenshot, Habmin is able to find out the manufacturer and model of the device that the Things represents. This allows Habmin to automatically setup the corresponding Items.
+As you can see in the previous screenshot, Habmin is able to find out the model of the device that the Things represents. This allows Habmin to automatically setup the corresponding Items.
 
-Habmin is using an internal database to fetch configuration data corresponding to the device.
+The "Z-Wave Node 2" mention gives the OpenHab internal number of the zwave node, in our case 2.
 
-If this device is not in the database,then no device name nor model will be displayed but a code identifying the device.
+
+> Habmin is using an internal database to fetch configuration data corresponding to the device.
+
+
+> If this device is not in the database,then no device name nor model will be displayed but a code identifying the device.
+
+> ![](zwave-node-badnode.png)
+
+> In this example, the Thing "Z-wave Node 3" has not been found in the ZWave database and the Thing "Z-wave Node 4"  has been successfully identified.
+> 
+> The section *The ZWave Database* details more the database and how you can send information about a new device.
+
 
 
 
