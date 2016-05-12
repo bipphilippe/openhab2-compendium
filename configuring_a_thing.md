@@ -35,6 +35,11 @@ The use of these parameters are described in the user's manual of the device its
 
 ![](add-node-26.png)
 
+When a parameter value is changed, Habmin send it to the device. A *pending* message is displayed  at this time.
+
+![](add-node-27.png)
+
+
 ## Association group panel
 
 <<<< TO BE COMPLETED >>>>
