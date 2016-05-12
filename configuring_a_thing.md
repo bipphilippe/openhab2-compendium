@@ -3,7 +3,7 @@ You can access to the Thing configuration by clicking on *Configuration*, *Thing
 
 The Thing configuration display has 6 panels.
 
-### Overview configuration panel
+## Overview configuration panel
 
 ![](add-node-25.png)
 
@@ -15,7 +15,7 @@ This panel contains the following information:
 > 
 The name of the item can be modified in the channels panel.
 
-### The properties panel
+## The properties panel
 
 ![](add-node-20.png)
 
@@ -23,7 +23,7 @@ The properties panel presents the Label of the Thing.
 
 You can change the label according, for example, the naming convention that we presented in the introduction.
 
-### Configuration parameters panel
+## Configuration parameters panel
 
 This panel presents the configuration parameters of the device
 
@@ -33,16 +33,16 @@ The use of these parameters are described in the user's manual of the device its
 
 ![](add-node-26.png)
 
-### Association group panel
+## Association group panel
 
 <<<< TO BE COMPLETED >>>>
 
-### Device configuration panel
+## Device configuration panel
 
 <<<< TO BE COMPLETED >>>>
 
 
-### Channels panel
+## Channels panel
 
 This panel is the key panel to configure the *Items*, as they are linked to chanels*
 
