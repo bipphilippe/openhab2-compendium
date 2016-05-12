@@ -42,3 +42,6 @@ You can then find the Thing in the list of Things, by clicking on *Configuration
 
 ## Configuring the Thing
 
+Configuring a newly imported Thing or changing the configuration of an older one is made through the *Configuration, Thing Configuration* menu.
+
+This is described in th next chapter.
