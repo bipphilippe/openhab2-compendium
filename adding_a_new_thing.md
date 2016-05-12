@@ -1,8 +1,30 @@
 # Adding a new Thing
 
+## Inserting the device in the z-wave network
+The first action is to insert the new device in the z-wave netowrk. This is to be done using the controller.
+
+OpenHab has nothing to do at this stage. All the operation are managed from the controller itself.
+
+## Setting up the new Thing
+
+A fex seconds after your device has been inserted inside the network using the controler, a new Thing appears in the inbox.
+
+As you can see in the following picture, a small green label with the number of new things appears at the top right of the habmin 2 screen.
+
 ![](add-node-10.png)
 
+If you click on it, the inbox pops up with the list of the newly detected Things.
+
 ![](add-node-15.png)
+
+As you can see in the previous screenshot, Habmin is able to find out the manufacturer and model of the device that the Things represents. This allows Habmin to automatically setup the corresponding Items.
+
+Habmin is using an internal database to fetch configuration data corresponding to the device.
+
+If this device is not in the database,then no device name nor model will be displayed but a code identifying the device.
+
+
+
 
 ![](add-node-20.png)
 
