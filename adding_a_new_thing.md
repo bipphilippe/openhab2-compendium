@@ -66,7 +66,7 @@ The properties panel presents the Label of the Thing.
 
 You can change the label according, for example, the naming convention that we presented in the introduction.
 
-### Configuration parameters
+### Configuration parameters panel
 
 The content of this panel depends on the device model. It presents the configuration parameters of the device.
 
