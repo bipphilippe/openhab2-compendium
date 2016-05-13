@@ -93,7 +93,7 @@ HABmin is not yet integrated to the Karaf architecture. So, we have to install i
 
 * Move the HABmin software from the _download_ folder to the _addon_ folder
 ```
-	> cal:OpenHab admin$ mv ../Downloads/org.openhab.ui.habmin_2.0.0.SNAPSHOT-0.1.4.jar addons
+	cal:OpenHab callas$ mv ../Downloads/org.openhab.ui.habmin_2.0.0.SNAPSHOT-0.1.4.jar addons
 ```
 
 
