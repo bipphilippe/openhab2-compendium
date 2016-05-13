@@ -15,6 +15,7 @@
    * [The different UIs](the_different_uis.md)
    * Installing an extension
    * Adding and configuring things
+   * Working with sitemaps
 * [Z-Wave and HABmin](z-wave_and_habadmin.md)
    * [Installing the extensions](installing_the_extensions.md)
    * [Connecting to the Z-Wave controler](connecting_to_the_z-wave_controler.md)
