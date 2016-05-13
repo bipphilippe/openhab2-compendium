@@ -46,6 +46,13 @@ Installing this binding is quite straightforward. It is to be done through the P
 HABmin install
 ======================
 
+---
+
+*Guidelines : this section is so far centered on Mac OS. It must be modified in order to cover Linux and Windows.*
+
+
+---
+
 We install HABmin _after_ the Z-Wave binding as HABmin relies on the last one.
 
 HABmin is not yet integrated to the Karaf architecture. So, we have to install it manually.
