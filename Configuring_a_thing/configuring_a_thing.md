@@ -17,7 +17,7 @@ The name of the item can be modified in the channels panel.
 
 ## The properties panel
 
-![](add-node-20.png)
+![](../Adding_a_new_thing/add-node-20.png)
 
 The properties panel presents the Label of the Thing.
 
