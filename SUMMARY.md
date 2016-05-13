@@ -21,6 +21,7 @@
    * [Looking to the logs](looking_to_the_logs.md)
 * [Advanced OpenHab](advanced_openhab.md)
    * Advanced Rules and Scripts
+* [Tricks and troubleshooting](tricks_and_troubleshooting.md)
 * [Z-Wave and HABmin](z-wave_and_habadmin.md)
    * [Installing the extensions](installing_the_extensions.md)
    * [Connecting to the Z-Wave controler](connecting_to_the_z-wave_controler.md)
@@ -28,5 +29,4 @@
    * [Configuring a Thing](configuring_a_thing.md)
    * [The ZWave Database](the_zwave_database.md)
    * [Other tools of Habmin](other_tools_of_habmin.md)
-* [Tricks and troubleshooting](tricks_and_troubleshooting.md)
 
