@@ -16,7 +16,7 @@
    * Installing an extension
    * Adding and configuring things
    * Working with sitemaps
-   * Working with Persistence
+   * [Working with Persistence](working_with_persistence.md)
    * Working with rules and scripts
    * [Looking to the logs](looking_to_the_logs.md)
 * [Z-Wave and HABmin](z-wave_and_habadmin.md)
