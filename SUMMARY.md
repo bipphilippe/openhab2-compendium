@@ -20,6 +20,7 @@
    * [Working with rules and scripts](working_with_rules_and_scripts.md)
    * [Looking to the logs](looking_to_the_logs.md)
 * [Advanced OpenHab](advanced_openhab.md)
+   * Advanced Rules and Scripts
 * [Z-Wave and HABmin](z-wave_and_habadmin.md)
    * [Installing the extensions](installing_the_extensions.md)
    * [Connecting to the Z-Wave controler](connecting_to_the_z-wave_controler.md)
