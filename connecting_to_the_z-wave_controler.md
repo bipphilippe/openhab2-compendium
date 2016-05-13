@@ -53,6 +53,15 @@ Working with the Z-Wave devices will be done in __HABmin__.
 
 ## Configuring the port
 
+---
+
+*Guidelines : this section is so far centered on Mac OS. It must be modified in order to cover Linux and Windows.*
+
+
+---
+
+
+
 ### Finding the port name
 
 * Open the terminal window
