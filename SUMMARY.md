@@ -14,6 +14,7 @@
 * [Working with OpenHab](working_with_openhab.md)
    * The different UIs
    * Installing an extension
+   * Discovering things
 * [Z-Wave and HABmin](z-wave_and_habadmin.md)
    * [Installing the extensions](installing_the_extensions.md)
    * [Connecting to the Z-Wave controler](connecting_to_the_z-wave_controler.md)
