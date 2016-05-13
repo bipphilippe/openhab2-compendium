@@ -12,7 +12,7 @@
    * [Installing OpenHab](installing_openhab.md)
    * [Looking to the logs](looking_to_the_logs.md)
 * [Working with OpenHab](working_with_openhab.md)
-   * The different UIs
+   * [The different UIs](the_different_uis.md)
    * Installing an extension
    * Adding and configuring things
 * [Z-Wave and HABmin](z-wave_and_habadmin.md)
