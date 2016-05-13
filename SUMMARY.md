@@ -26,7 +26,7 @@
    * [Installing the extensions](installing_the_extensions.md)
    * [Connecting to the Z-Wave controler](connecting_to_the_z-wave_controler.md)
    * [Adding a new Thing](Adding_a_new_thing/adding_a_new_thing.md)
-   * [Configuring a Thing](configuring_a_thing.md)
+   * [Configuring a Thing](Configuring_a_thing/configuring_a_thing.md)
    * [The ZWave Database](the_zwave_database.md)
    * [Other tools of Habmin](other_tools_of_habmin.md)
 
