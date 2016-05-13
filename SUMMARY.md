@@ -24,7 +24,7 @@
 * [Tricks and troubleshooting](tricks_and_troubleshooting.md)
 * [Z-Wave and HABmin](z-wave_and_habadmin.md)
    * [Installing the extensions](installing_the_extensions.md)
-   * [Connecting to the Z-Wave controler](connecting_to_the_z-wave_controler.md)
+   * [Connecting to the Z-Wave controler](Connecting_to_the_z-wave_controler/connecting_to_the_z-wave_controler.md)
    * [Adding a new Thing](Adding_a_new_thing/adding_a_new_thing.md)
    * [Configuring a Thing](Configuring_a_thing/configuring_a_thing.md)
    * [The ZWave Database](the_zwave_database.md)
