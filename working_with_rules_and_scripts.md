@@ -32,7 +32,7 @@
     
 * *Working with States*
     
-* *Lambdas*
+* *Lambdas -> in advanced openhab*
 
 * *...*
 
