@@ -27,4 +27,5 @@
    * [The ZWave Database](the_zwave_database.md)
    * [Other tools of Habmin](other_tools_of_habmin.md)
 * [Tricks and troubleshooting](tricks_and_troubleshooting.md)
+* Advanced OpenHab
 
