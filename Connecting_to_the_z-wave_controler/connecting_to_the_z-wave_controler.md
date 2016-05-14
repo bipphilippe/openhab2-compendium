@@ -15,19 +15,19 @@ Working with the Z-Wave devices will be done in __HABmin__.
 * On the left menu, click on __Configuration__ and __Things configuration__.
 * The controller must be added manually. Click on the __+__ sign, at the top of the screen.
 
-![](zwave-controller-config-1.png)
+![](images/zwave-controller-config-1.png)
 
 * In the following screen, choose __Z-Wave Binding__ :
 
-![](zwave-controller-config-2.png)
+![](images/zwave-controller-config-2.png)
 
 * You can then select : __Z-Wave Serial Controller__ :
 
-![](zwave-controller-config-3.png)
+![](images/zwave-controller-config-3.png)
 
 * In the following screen, you can change the __label__ value to the name you want to give to the controller.
 
-![](zwave-controller-config-7.png)
+![](images/zwave-controller-config-7.png)
 
 * Click on save, and you are ready to configure it.
 
@@ -44,12 +44,12 @@ Working with the Z-Wave devices will be done in __HABmin__.
 
 * On the left menu, click again on  __Things configuration__, the controller is now in the list :
 
-![](zwave-controller-config-4.png)
+![](images/zwave-controller-config-4.png)
 
 * Click on the Controller
 * The following screen allows you to configure the Thing.
 
-![](zwave-controller-config-5.png)
+![](images/zwave-controller-config-5.png)
 
 ## Configuring the port
 
