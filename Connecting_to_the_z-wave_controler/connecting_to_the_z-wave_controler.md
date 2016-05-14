@@ -79,12 +79,12 @@ The port name that is displayed is the parameter needed
 * Click on Port configuration
 * Fill the serial port with the port name
 
-![](zwave-controller-config-9.png)
+![](images/zwave-controller-config-9.png)
 
 * Click on save
 * After a few seconds, the thing icon becomes greens
 
-![](zwave-controller-config-A.png)
+![](images/zwave-controller-config-A.png)
 
 > If you made any kind of mistake in the port configuration, the icon will become red.
 > The log file will contain this kind of lines:
