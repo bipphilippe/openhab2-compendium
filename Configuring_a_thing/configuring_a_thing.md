@@ -5,7 +5,7 @@ The Thing configuration display has 6 panels.
 
 ## Overview configuration panel
 
-![](add-node-25.png)
+![](images/add-node-25.png)
 
 This panel contains the following information:
 * The label giving you the model name of the *Thing*, read-only,
@@ -17,7 +17,7 @@ The name of the item can be modified in the channels panel.
 
 ## The properties panel
 
-![](../Adding_a_new_thing/add-node-20.png)
+![](../Adding_a_new_thing/images/add-node-20.png)
 
 The properties panel presents the Label of the Thing.
 
@@ -33,11 +33,11 @@ The content of this panel depends on the device model.
 
 The use of these parameters are described in the user's manual of the device itself.
 
-![](add-node-26.png)
+![](images/add-node-26.png)
 
 When a parameter value is changed, Habmin send it to the device. A *pending* message is displayed  at this time.
 
-![](add-node-27.png)
+![](images/add-node-27.png)
 
 
 ## Association group panel
@@ -53,22 +53,22 @@ When a parameter value is changed, Habmin send it to the device. A *pending* mes
 
 This panel is the key panel to configure the *Items*, as the channels are the link between *Things* and *Items*.
 
-![](add-node-35.png)
+![](images/add-node-35.png)
 
 Basically, HABmin will create one *Item* per channel.
 
 Each channel follows the same following structure:
 
-![](thing-channels-1.png)
+![](images/thing-channels-1.png)
 
 Five buttons allow different actions:
 
-![](thing-channels-2.png)
+![](images/thing-channels-2.png)
 HABmin 2 creates and link automatically the needed *items* when a *thing* is created, so creating, deleting and linking action are not often used.
 
 To personnalise item information, the *edit linked data* button opens the following window:
 
-![](add-node-40.png)
+![](images/add-node-40.png)
 
 This window allows to :
 * change the label, making it more informative;
