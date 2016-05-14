@@ -158,7 +158,7 @@ openhab>
 
 * Without closing the terminal, open your favorite web browser and type the following url : `http://localhost:8011`, you should see the openHab welcome screen.
 
-![](Accueil_Openhab_2.png)
+![](images/Accueil_Openhab_2.png)
 
 
 > Which browser should I use ?
