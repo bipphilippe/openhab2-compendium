@@ -15,7 +15,7 @@ To find them :
 
 * Inside the logs folder, double-click on the `openhab.log` file. The file will be displayed inside the console application.
 
-![](log-screen.png)
+![](images/log-screen.png)
 
 
 > The console will display the messages as soon as they will be logged. Keep this window somewhere in order to take a look inside when it is needed.
