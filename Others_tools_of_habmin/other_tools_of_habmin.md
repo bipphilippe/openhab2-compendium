@@ -2,7 +2,7 @@
 
 ## The Sitemap viewer
 
-
+<<< WAITING FOR BEING FUNCTIONNAL IN HABMIN >>>
 
 ## The Z-Wave network viewer
 
