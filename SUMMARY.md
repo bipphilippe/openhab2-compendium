@@ -28,5 +28,5 @@
    * [Adding a new Thing](Adding_a_new_thing/adding_a_new_thing.md)
    * [Configuring a Thing](Configuring_a_thing/configuring_a_thing.md)
    * [The ZWave Database](the_zwave_database.md)
-   * [Other tools of Habmin](other_tools_of_habmin.md)
+   * [Other tools of Habmin](Other_tools_of_habmin/other_tools_of_habmin.md)
 
