@@ -11,11 +11,11 @@ A fex seconds after your device has been inserted inside the network using the c
 
 As you can see in the following picture, a small green label with the number of new things appears at the top right of the habmin 2 screen.
 
-![](add-node-10.png)
+![](images/add-node-10.png)
 
 If you click on it, the inbox pops up with the list of the newly detected Things.
 
-![](add-node-15.png)
+![](images/add-node-15.png)
 
 As you can see in the previous screenshot, Habmin is able to find out the model of the device that the Things represents. This allows Habmin to automatically setup the corresponding Items.
 
@@ -27,7 +27,7 @@ The "Z-Wave Node 2" mention gives the OpenHab internal number of the zwave node,
 
 > If this device is not in the database,then no device name nor model will be displayed but a code identifying the device.
 
-> ![](zwave-node-badnode.png)
+> ![](images/zwave-node-badnode.png)
 
 > In this example, the Thing "Z-wave Node 3" has not been found in the ZWave database and the Thing "Z-wave Node 4"  has been successfully identified.
 > 
@@ -37,7 +37,7 @@ To be able to finalyze configuration of the *Thing* and the linked *Items*, you 
 
 You can then find the Thing in the list of Things, by clicking on *Configuration*, *Thing Configuration* in the right menu.
 
-![](add-node-20.png)
+![](images/add-node-20.png)
 
 
 ## Configuring the Thing
