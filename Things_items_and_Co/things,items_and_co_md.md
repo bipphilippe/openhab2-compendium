@@ -8,14 +8,14 @@ The following illustrates the difference between them.
 
 This corresponds to one double-switch device.
 
-![](thing-devices-1.png)
+![](images/thing-devices-1.png)
 
 
 ## One device to manage one light and a switch
 
 This corresponds to a device with one switch, with an entry for a mechanical switch.
 
-![](thing-devices-2.png)
+![](images/thing-devices-2.png)
 
 ## Naming convention
 
@@ -32,7 +32,7 @@ So:
 * the main light will be the item named *living-light-main*
 * the ambient light will be the item named *living-light-ambient*
 
-![](thing-device-naming.png)
+![](images/thing-device-naming.png)
 
 ## Real Life example
 
@@ -51,7 +51,7 @@ Let's do a real life example with a device, inspired by the FIBARO double switch
 
 So, this one *Thing* will create two sets of three *Items*, according the following :
 
-![](name-device-example.png)
+![](images/name-device-example.png)
 
 
 
