@@ -25,13 +25,16 @@ The "Z-Wave Node 2" mention gives the OpenHab internal number of the zwave node,
 > Habmin is using an internal database to fetch configuration data corresponding to the device.
 
 
-> If this device is not in the database,then no device name nor model will be displayed but a code identifying the device.
+> If this device is not in the database, then no device model will be displayed but a code identifying the device.
 
 > ![](images/zwave-node-badnode.png)
 
 > In this example, the Thing "Z-wave Node 3" has not been found in the ZWave database and the Thing "Z-wave Node 4"  has been successfully identified.
 > 
 > The section *The ZWave Database* details more the database and how you can send information about a new device.
+>  
+> If there is no device model nor code displayed, this means that Habmin is still waiting for information about the device. This occurs with battery powered devices, as Habmin has to wait for the next wakeup time of the device to obtain the needed information.
+
 
 To be able to finalyze configuration of the *Thing* and the linked *Items*, you have to click on "add" just below the name of the *Thing*.
 
