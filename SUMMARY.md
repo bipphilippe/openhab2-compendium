@@ -23,7 +23,7 @@
    * Advanced Rules and Scripts
 * [Tricks and troubleshooting](tricks_and_troubleshooting.md)
 * [Z-Wave and HABmin](z-wave_and_habadmin.md)
-   * [Installing the extensions](Installing_the_extensions/installing_the_extensions.md)
+   * [Installing the extensions](Installing_the_extension/installing_the_extensions.md)
    * [Connecting to the Z-Wave controler](Connecting_to_the_z-wave_controler/connecting_to_the_z-wave_controler.md)
    * [Adding a new Thing](Adding_a_new_thing/adding_a_new_thing.md)
    * [Configuring a Thing](Configuring_a_thing/configuring_a_thing.md)
