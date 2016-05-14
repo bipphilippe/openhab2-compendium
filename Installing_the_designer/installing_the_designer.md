@@ -8,7 +8,7 @@ To do this :
 * Go to the following site (it contains the latest version) : `https://github.com/eclipse/smarthome/blob/master/docs/documentation/community/downloads.md#designer-builds.`
 * In the nightly snapshots build, click on the link : `Eclipse SmartHome Designer (Mac OSX 64bit)`, to download it in your "download" folder.
 
-![](smarthone-designer-05.png)
+![](images/smarthone-designer-05.png)
 
 * with the finder, navigate to the `OpenHab` folder we created during the OpenHab installation
 * create a new folder called `extra`in the `OpenHab` folder
@@ -23,7 +23,7 @@ To do so:
 * double-click on the `Eclipse SmartHome Designer` icon
 * when the launch of the designer is completed, the following window appears:
 
-![](smarthone-designer-10.png)
+![](images/smarthone-designer-10.png)
 
 At this stage, the configuration window is empty as the designer does not know where are the configuration files. 
 
@@ -33,12 +33,12 @@ To tell it where are these files:
 * navigate to the `OpenHab` folder we have created when installing OpenHab,
 * double-click on the `conf` folder, 
 
-![](smarthone-designer-15.png)
+![](images/smarthone-designer-15.png)
 
 * click on the button `Open`,
 * the `Configuration` windows now lists the different configuration folders:
 
-![](smarthone-designer-20.png)
+![](images/smarthone-designer-20.png)
 
 
 
