@@ -9,7 +9,7 @@
    * [Bindings and other extensions](bindings_and_other_extensions.md)
 * [Installing OpenHab](chapter1.md)
    * [Checking Java](checking_java.md)
-   * [Installing OpenHab](installing_openhab.md)
+   * [Installing OpenHab](Installing_openhab/installing_openhab.md)
    * [Installing the designer](installing_the_designer.md)
 * [Working with OpenHab](working_with_openhab.md)
    * [The different UIs](the_different_uis.md)
