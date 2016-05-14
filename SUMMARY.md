@@ -4,7 +4,7 @@
 * [OpenHab basics](openhab_basics.md)
    * What is OpenHab ?
    * [Things, items and Co](Things_items_and_Co/things,items_and_co_md.md)
-   * [Sitemap](sitemap.md)
+   * [Sitemap](Sitemap/sitemap.md)
    * Rules and scripting
    * [Bindings and other extensions](bindings_and_other_extensions.md)
 * [Installing OpenHab](chapter1.md)
