@@ -3,7 +3,7 @@ You can access to the Thing configuration by clicking on *Configuration*, *Thing
 
 The Thing configuration display has 6 panels.
 
-## Overview configuration panel
+## Configuration panel overview
 
 ![](images/add-node-25.png)
 
