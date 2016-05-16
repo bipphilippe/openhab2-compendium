@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [OpenHab basics](openhab_basics.md)
+* [Openhab_basics/openhab_basics.md](openhab_basics.md)
    * What is OpenHab ?
    * [Things, items and Co](Things_items_and_Co/things,items_and_co_md.md)
    * [Sitemap](Sitemap/sitemap.md)
