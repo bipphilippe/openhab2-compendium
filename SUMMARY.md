@@ -11,7 +11,7 @@
    * [Checking Java](Checking_java/checking_java.md)
    * [Installing OpenHab](Installing_openhab/installing_openhab.md)
    * [Installing the designer](Installing_the_designer/installing_the_designer.md)
-* [Working with OpenHab](working_with_openhab.md)
+* [Working with OpenHab](Working_with_openhab/working_with_openhab)
    * [The different UIs](The_different_uis/the_different_uis.md)
    * [Installing an extension](Installing_an_extension/installing_an_extension.md)
    * Adding and configuring things
