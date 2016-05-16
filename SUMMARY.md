@@ -13,7 +13,7 @@
    * [Installing the designer](Installing_the_designer/installing_the_designer.md)
 * [Working with OpenHab](working_with_openhab.md)
    * [The different UIs](the_different_uis.md)
-   * [Installing an extension](installing_an_extension.md)
+   * [Installing an extension](Installing_an_extension/installing_an_extension.md)
    * Adding and configuring things
    * Working with sitemaps
    * [Working with Persistence](working_with_persistence.md)
