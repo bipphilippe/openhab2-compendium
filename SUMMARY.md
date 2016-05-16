@@ -8,7 +8,7 @@
    * Rules and scripting
    * [Bindings and other extensions](Bindings_and_other_extensions/bindings_and_other_extensions.md)
 * [Installing OpenHab](Installing_openhab_intoduction/installing_openhab_intoduction.md)
-   * [Checking Java](checking_java.md)
+   * [Checking Java](Checking_java/checking_java.md)
    * [Installing OpenHab](Installing_openhab/installing_openhab.md)
    * [Installing the designer](Installing_the_designer/installing_the_designer.md)
 * [Working with OpenHab](working_with_openhab.md)
