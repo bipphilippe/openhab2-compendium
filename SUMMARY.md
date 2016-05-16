@@ -6,7 +6,7 @@
    * [Things, items and Co](Things_items_and_Co/things,items_and_co_md.md)
    * [Sitemap](Sitemap/sitemap.md)
    * Rules and scripting
-   * [Bindings and other extensions](bindings_and_other_extensions.md)
+   * [Bindings and other extensions](Bindings_and_other_extensions/bindings_and_other_extensions.md)
 * [Installing OpenHab](Installing_openhab_intoduction/installing_openhab_intoduction.md)
    * [Checking Java](checking_java.md)
    * [Installing OpenHab](Installing_openhab/installing_openhab.md)
