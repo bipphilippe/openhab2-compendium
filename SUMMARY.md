@@ -16,7 +16,7 @@
    * [Installing an extension](Installing_an_extension/installing_an_extension.md)
    * Adding and configuring things
    * Working with sitemaps
-   * [Working with Persistence](working_with_persistence.md)
+   * [Working with Persistence](working_with_persistence/working_with_persistence.md)
    * [Working with rules and scripts](working_with_rules_and_scripts.md)
    * [Looking to the logs](Looking_to_the_logs/looking_to_the_logs.md)
 * [Advanced OpenHab](advanced_openhab.md)
