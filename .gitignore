@@ -16,5 +16,4 @@ _book
 *.pdf
 
 # xcode file
-*.xcodeproj
-*.xcodeproj/*
+*xcode*
