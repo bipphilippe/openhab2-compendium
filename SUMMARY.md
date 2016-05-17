@@ -21,6 +21,7 @@
    * [Looking to the logs](10 Users manual/30 Working with openhab/70 looking_to_the_logs/looking_to_the_logs.md)
 * [Advanced OpenHab](advanced_openhab.md)
    * Advanced Rules and Scripts
+* *** Cookbook
 * [Cookbook introduction](30 Cookbook/00 cookbook/cookbook.md)
 * *** Reference manual
 * *** Extras
@@ -32,4 +33,4 @@
    * [Configuring a Thing](Configuring_a_thing/configuring_a_thing.md)
    * [The ZWave Database](The_zwave_database/the_zwave_database.md)
    * [Other tools of Habmin](Others_tools_of_habmin/other_tools_of_habmin.md)
-* *** Cookbook
+
