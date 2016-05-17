@@ -21,7 +21,6 @@
    * [Working with rules and scripts](10 Users manual/30 Working with openhab/60 working_with_rules_and_scripts/working_with_rules_and_scripts.md)
    * [Looking to the logs](10 Users manual/30 Working with openhab/70 looking_to_the_logs/looking_to_the_logs.md)
 * *** Reference manual -------------------
-   * Advanced Rules and Scripts
 * *** Cookbook ---------------------------
 * [Cookbook introduction](30 Cookbook/00 cookbook/cookbook.md)
 * *** Extras
