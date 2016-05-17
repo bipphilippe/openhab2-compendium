@@ -12,7 +12,7 @@
    * [Installing openhab](10 Users manual/20 installing openhab/20 installing_openhab/installing_openhab.md)
    * [Installing the designer](10 Users manual/20 installing openhab/30 Installing_the_designer/installing_the_designer.md)
 * [Working with OpenHab](Working_with_openhab/working_with_openhab)
-   * [The different UIs](The_different_uis/the_different_uis.md)
+   * [10 Users manual/30 Working with openhab/00 working_with_openhab/working_with_openhab.md](The_different_uis/the_different_uis.md)
    * [Installing an extension](Installing_an_extension/installing_an_extension.md)
    * Adding and configuring things
    * Working with sitemaps
