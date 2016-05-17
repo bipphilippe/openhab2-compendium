@@ -9,7 +9,7 @@
    * [Bindings and other extensions](10 Users manual/10 openhab basics/50 bindings_and_other_extensions/bindings_and_other_extensions.md)
 * [Installing OpenHab](10 Users manual/20 installing openhab/00 installing_openhab_introduction/installing_openhab_introduction.md)
    * [Checking Java](10 Users manual/20 installing openhab/10 checking_java/checking_java.md)
-   * [10 Users manual/20 installing openhab/20 installing_openhab/installing_openhab.md](Installing_openhab/installing_openhab.md)
+   * [Installing openhab](Installing_openhab/installing_openhab.md)
    * [Installing the designer](Installing_the_designer/installing_the_designer.md)
 * [Working with OpenHab](Working_with_openhab/working_with_openhab)
    * [The different UIs](The_different_uis/the_different_uis.md)
