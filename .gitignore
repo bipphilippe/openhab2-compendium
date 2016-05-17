@@ -14,3 +14,7 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# xcode file
+*.xcodeproj
+*.xcodeproj/*
