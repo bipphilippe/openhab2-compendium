@@ -24,7 +24,7 @@
 * Cookbook ----------------------------
 * [Cookbook introduction](30 Cookbook/00 cookbook/cookbook.md)
 * Extras ------------------------------
-* [Z-Wave and HABmin](z-wave_and_habadmin/z-wave_and_habadmin.md)
+* [Z-Wave and HABmin](A0 Zwave binding and habmin/00 z-wave_and_habadmin/z-wave_and_habadmin.md)
    * [Installing the extensions](Installing_the_extension/installing_the_extensions.md)
    * [Connecting to the Z-Wave controler](Connecting_to_the_z-wave_controler/connecting_to_the_z-wave_controler.md)
    * [Adding a new Thing](adding_a_new_thing/adding_a_new_thing.md)
