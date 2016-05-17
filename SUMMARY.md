@@ -30,5 +30,5 @@
    * [Adding a new Thing](A0 Zwave binding and habmin/30 adding_a_new_thing/adding_a_new_thing.md)
    * [Configuring a Thing](A0 Zwave binding and habmin/40 configuring_a_thing/configuring_a_thing.md)
    * [The ZWave Database](A0 Zwave binding and habmin/80 The_zwave_database/the_zwave_database.md)
-   * [Other tools of Habmin](Others_tools_of_habmin/other_tools_of_habmin.md)
+   * [Other tools of Habmin](A0 Zwave binding and habmin/90 Others_tools_of_habmin/other_tools_of_habmin.md)
 
