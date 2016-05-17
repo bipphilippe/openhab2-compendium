@@ -7,7 +7,7 @@
    * [Sitemap](10 Users manual/10 openhab basics/30 sitemap/sitemap.md)
    * Rules and scripting
    * [Bindings and other extensions](10 Users manual/10 openhab basics/50 bindings_and_other_extensions/bindings_and_other_extensions.md)
-* [Installing OpenHab](Installing_openhab_intoduction/installing_openhab_intoduction.md)
+* [Installing OpenHab](10 Users manual/20 installing openhab/00 installing_openhab_introduction/installing_openhab_introduction.md)
    * [Checking Java](Checking_java/checking_java.md)
    * [Installing OpenHab](Installing_openhab/installing_openhab.md)
    * [Installing the designer](Installing_the_designer/installing_the_designer.md)
