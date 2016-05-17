@@ -29,4 +29,5 @@
    * [Configuring a Thing](Configuring_a_thing/configuring_a_thing.md)
    * [The ZWave Database](The_zwave_database/the_zwave_database.md)
    * [Other tools of Habmin](Others_tools_of_habmin/other_tools_of_habmin.md)
+* Users manual
 
