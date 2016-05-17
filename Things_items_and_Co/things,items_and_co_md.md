@@ -1,4 +1,4 @@
-# Things, items and Company
+# Things, items and Co
 
 OpenHab 2 introduces two levels to describe the devices : things and items.
 
