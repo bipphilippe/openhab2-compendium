@@ -4,7 +4,7 @@
 * [Openhab_basics](10 Users manual/10 openhab basics/00 openhab_basics/openhab_basics.md)
    * [What is OpenHab ?](10 Users manual/10 openhab basics/10 what_is_openhab/what_is_openhab.md)
    * [Things, items and Co](10 Users manual/10 openhab basics/20 things_items_and_co/things_items_and_co.md)
-   * [Sitemap](Sitemap/sitemap.md)
+   * [Sitemap](10 Users manual/10 openhab basics/30 sitemap/sitemap.md)
    * Rules and scripting
    * [Bindings and other extensions](Bindings_and_other_extensions/bindings_and_other_extensions.md)
 * [Installing OpenHab](Installing_openhab_intoduction/installing_openhab_intoduction.md)
