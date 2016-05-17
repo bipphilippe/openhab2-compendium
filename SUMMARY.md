@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Openhab_basics](openhab_basics/openhab_basics.md)
-   * What is OpenHab ?
+   * [What is OpenHab ?](openhab_basics/what_is_openhab/what_is_openhab.md)
    * [Things, items and Co](Things_items_and_Co/things,items_and_co_md.md)
    * [Sitemap](Sitemap/sitemap.md)
    * Rules and scripting
