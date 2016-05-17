@@ -12,13 +12,13 @@
    * [Installing openhab](10 Users manual/20 installing openhab/20 installing_openhab/installing_openhab.md)
    * [Installing the designer](10 Users manual/20 installing openhab/30 Installing_the_designer/installing_the_designer.md)
 * [Working with OpenHab](10 Users manual/30 Working with openhab/00 working_with_openhab/working_with_openhab.md)
+   * The different UIs
    * [Installing an extension](Installing_an_extension/installing_an_extension.md)
    * Adding and configuring things
    * Working with sitemaps
    * [Working with Persistence](working_with_persistence/working_with_persistence.md)
    * [Working with rules and scripts](working_with_rules_and_scripts/working_with_rules_and_scripts.md)
    * [Looking to the logs](Looking_to_the_logs/looking_to_the_logs.md)
-   * The different UIs
 * [Advanced OpenHab](advanced_openhab.md)
    * Advanced Rules and Scripts
 * [Tricks and troubleshooting](Tricks_and_troubleshooting/tricks_and_troubleshooting.md)
