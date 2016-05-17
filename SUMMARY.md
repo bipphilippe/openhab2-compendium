@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* *** Users manual
+* *** Users manual ------------------------
 * [Openhab_basics](10 Users manual/10 openhab basics/00 openhab_basics/openhab_basics.md)
    * [What is OpenHab ?](10 Users manual/10 openhab basics/10 what_is_openhab/what_is_openhab.md)
    * [Things, items and Co](10 Users manual/10 openhab basics/20 things_items_and_co/things_items_and_co.md)
@@ -20,11 +20,10 @@
    * [Working with Persistence](working_with_persistence/working_with_persistence.md)
    * [Working with rules and scripts](10 Users manual/30 Working with openhab/60 working_with_rules_and_scripts/working_with_rules_and_scripts.md)
    * [Looking to the logs](10 Users manual/30 Working with openhab/70 looking_to_the_logs/looking_to_the_logs.md)
-* [Advanced OpenHab](advanced_openhab.md)
+* *** Reference manual -------------------
    * Advanced Rules and Scripts
-* *** Cookbook
+* *** Cookbook ---------------------------
 * [Cookbook introduction](30 Cookbook/00 cookbook/cookbook.md)
-* *** Reference manual
 * *** Extras
 * [Z-Wave and HABmin](z-wave_and_habadmin/z-wave_and_habadmin.md)
    * [Installing the extensions](Installing_the_extension/installing_the_extensions.md)
