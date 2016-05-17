@@ -6,7 +6,7 @@
    * [Things, items and Co](10 Users manual/10 openhab basics/20 things_items_and_co/things_items_and_co.md)
    * [Sitemap](10 Users manual/10 openhab basics/30 sitemap/sitemap.md)
    * Rules and scripting
-   * [Bindings and other extensions](Bindings_and_other_extensions/bindings_and_other_extensions.md)
+   * [Bindings and other extensions](10 Users manual/10 openhab basics/50 bindings_and_other_extensions/bindings_and_other_extensions.md)
 * [Installing OpenHab](Installing_openhab_intoduction/installing_openhab_intoduction.md)
    * [Checking Java](Checking_java/checking_java.md)
    * [Installing OpenHab](Installing_openhab/installing_openhab.md)
