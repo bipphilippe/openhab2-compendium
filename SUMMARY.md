@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Users manual
 * [Openhab_basics](10 Users manual/10 openhab basics/00 openhab_basics/openhab_basics.md)
    * [What is OpenHab ?](10 Users manual/10 openhab basics/10 what_is_openhab/what_is_openhab.md)
    * [Things, items and Co](10 Users manual/10 openhab basics/20 things_items_and_co/things_items_and_co.md)
@@ -29,5 +30,4 @@
    * [Configuring a Thing](Configuring_a_thing/configuring_a_thing.md)
    * [The ZWave Database](The_zwave_database/the_zwave_database.md)
    * [Other tools of Habmin](Others_tools_of_habmin/other_tools_of_habmin.md)
-* Users manual
 
