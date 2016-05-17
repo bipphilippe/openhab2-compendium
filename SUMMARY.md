@@ -22,6 +22,7 @@
 * [Advanced OpenHab](advanced_openhab.md)
    * Advanced Rules and Scripts
 * [Cookbook introduction](30 Cookbook/00 cookbook/cookbook.md)
+* *** Reference manual
 * *** Users manual
 * [Z-Wave and HABmin](z-wave_and_habadmin/z-wave_and_habadmin.md)
    * [Installing the extensions](Installing_the_extension/installing_the_extensions.md)
@@ -31,4 +32,5 @@
    * [The ZWave Database](The_zwave_database/the_zwave_database.md)
    * [Other tools of Habmin](Others_tools_of_habmin/other_tools_of_habmin.md)
    * *** Reference manual
+* *** Cookbook
 
