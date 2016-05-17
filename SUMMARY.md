@@ -18,7 +18,7 @@
    * Working with sitemaps
    * [Working with Persistence](working_with_persistence/working_with_persistence.md)
    * [Working with rules and scripts](10 Users manual/30 Working with openhab/60 working_with_rules_and_scripts/working_with_rules_and_scripts.md)
-   * [Looking to the logs](Looking_to_the_logs/looking_to_the_logs.md)
+   * [10 Users manual/30 Working with openhab/70 looking_to_the_logs/looking_to_the_logs.md](Looking_to_the_logs/looking_to_the_logs.md)
 * [Advanced OpenHab](advanced_openhab.md)
    * Advanced Rules and Scripts
 * [Tricks and troubleshooting](Tricks_and_troubleshooting/tricks_and_troubleshooting.md)
