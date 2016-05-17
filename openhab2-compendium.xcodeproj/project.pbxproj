@@ -1,0 +1,124 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		E7FE6A871CEB527B00AAE994 /* adding_a_new_thing */ = {isa = PBXFileReference; lastKnownFileType = folder; path = adding_a_new_thing; sourceTree = "<group>"; };
+		E7FE6A881CEB527B00AAE994 /* advanced_openhab */ = {isa = PBXFileReference; lastKnownFileType = folder; path = advanced_openhab; sourceTree = "<group>"; };
+		E7FE6A891CEB527B00AAE994 /* bindings_and_other_extensions */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bindings_and_other_extensions; sourceTree = "<group>"; };
+		E7FE6A8A1CEB527B00AAE994 /* book.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = book.json; sourceTree = "<group>"; };
+		E7FE6A8B1CEB527B00AAE994 /* checking_java */ = {isa = PBXFileReference; lastKnownFileType = folder; path = checking_java; sourceTree = "<group>"; };
+		E7FE6A8C1CEB527B00AAE994 /* configuring_a_thing */ = {isa = PBXFileReference; lastKnownFileType = folder; path = configuring_a_thing; sourceTree = "<group>"; };
+		E7FE6A8D1CEB527B00AAE994 /* connecting_to_the_z-wave_controler */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "connecting_to_the_z-wave_controler"; sourceTree = "<group>"; };
+		E7FE6A8E1CEB527B00AAE994 /* installing_an_extension */ = {isa = PBXFileReference; lastKnownFileType = folder; path = installing_an_extension; sourceTree = "<group>"; };
+		E7FE6A8F1CEB527B00AAE994 /* installing_openhab */ = {isa = PBXFileReference; lastKnownFileType = folder; path = installing_openhab; sourceTree = "<group>"; };
+		E7FE6A901CEB527B00AAE994 /* installing_openhab_intoduction */ = {isa = PBXFileReference; lastKnownFileType = folder; path = installing_openhab_intoduction; sourceTree = "<group>"; };
+		E7FE6A911CEB527B00AAE994 /* installing_the_designer */ = {isa = PBXFileReference; lastKnownFileType = folder; path = installing_the_designer; sourceTree = "<group>"; };
+		E7FE6A921CEB527B00AAE994 /* installing_the_extension */ = {isa = PBXFileReference; lastKnownFileType = folder; path = installing_the_extension; sourceTree = "<group>"; };
+		E7FE6A931CEB527B00AAE994 /* looking_to_the_logs */ = {isa = PBXFileReference; lastKnownFileType = folder; path = looking_to_the_logs; sourceTree = "<group>"; };
+		E7FE6A941CEB527B00AAE994 /* openhab_basics */ = {isa = PBXFileReference; lastKnownFileType = folder; path = openhab_basics; sourceTree = "<group>"; };
+		E7FE6A951CEB527B00AAE994 /* others_tools_of_habmin */ = {isa = PBXFileReference; lastKnownFileType = folder; path = others_tools_of_habmin; sourceTree = "<group>"; };
+		E7FE6A961CEB527B00AAE994 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E7FE6A971CEB527B00AAE994 /* sitemap */ = {isa = PBXFileReference; lastKnownFileType = folder; path = sitemap; sourceTree = "<group>"; };
+		E7FE6A981CEB527B00AAE994 /* SUMMARY.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = SUMMARY.md; sourceTree = "<group>"; };
+		E7FE6A991CEB527B00AAE994 /* the_different_uis */ = {isa = PBXFileReference; lastKnownFileType = folder; path = the_different_uis; sourceTree = "<group>"; };
+		E7FE6A9A1CEB527B00AAE994 /* the_zwave_database */ = {isa = PBXFileReference; lastKnownFileType = folder; path = the_zwave_database; sourceTree = "<group>"; };
+		E7FE6A9B1CEB527B00AAE994 /* things_items_and_Co */ = {isa = PBXFileReference; lastKnownFileType = folder; path = things_items_and_Co; sourceTree = "<group>"; };
+		E7FE6A9C1CEB527B00AAE994 /* tricks_and_troubleshooting */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tricks_and_troubleshooting; sourceTree = "<group>"; };
+		E7FE6A9D1CEB527B00AAE994 /* unused */ = {isa = PBXFileReference; lastKnownFileType = folder; path = unused; sourceTree = "<group>"; };
+		E7FE6A9E1CEB527B00AAE994 /* working_with_openhab */ = {isa = PBXFileReference; lastKnownFileType = folder; path = working_with_openhab; sourceTree = "<group>"; };
+		E7FE6A9F1CEB527B00AAE994 /* working_with_persistence */ = {isa = PBXFileReference; lastKnownFileType = folder; path = working_with_persistence; sourceTree = "<group>"; };
+		E7FE6AA01CEB527B00AAE994 /* working_with_rules_and_scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = working_with_rules_and_scripts; sourceTree = "<group>"; };
+		E7FE6AA11CEB527B00AAE994 /* z-wave_and_habadmin */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "z-wave_and_habadmin"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		E76E76D81CEB51AC00C96B33 = {
+			isa = PBXGroup;
+			children = (
+				E7FE6A871CEB527B00AAE994 /* adding_a_new_thing */,
+				E7FE6A881CEB527B00AAE994 /* advanced_openhab */,
+				E7FE6A891CEB527B00AAE994 /* bindings_and_other_extensions */,
+				E7FE6A8A1CEB527B00AAE994 /* book.json */,
+				E7FE6A8B1CEB527B00AAE994 /* checking_java */,
+				E7FE6A8C1CEB527B00AAE994 /* configuring_a_thing */,
+				E7FE6A8D1CEB527B00AAE994 /* connecting_to_the_z-wave_controler */,
+				E7FE6A8E1CEB527B00AAE994 /* installing_an_extension */,
+				E7FE6A8F1CEB527B00AAE994 /* installing_openhab */,
+				E7FE6A901CEB527B00AAE994 /* installing_openhab_intoduction */,
+				E7FE6A911CEB527B00AAE994 /* installing_the_designer */,
+				E7FE6A921CEB527B00AAE994 /* installing_the_extension */,
+				E7FE6A931CEB527B00AAE994 /* looking_to_the_logs */,
+				E7FE6A941CEB527B00AAE994 /* openhab_basics */,
+				E7FE6A951CEB527B00AAE994 /* others_tools_of_habmin */,
+				E7FE6A961CEB527B00AAE994 /* README.md */,
+				E7FE6A971CEB527B00AAE994 /* sitemap */,
+				E7FE6A981CEB527B00AAE994 /* SUMMARY.md */,
+				E7FE6A991CEB527B00AAE994 /* the_different_uis */,
+				E7FE6A9A1CEB527B00AAE994 /* the_zwave_database */,
+				E7FE6A9B1CEB527B00AAE994 /* things_items_and_Co */,
+				E7FE6A9C1CEB527B00AAE994 /* tricks_and_troubleshooting */,
+				E7FE6A9D1CEB527B00AAE994 /* unused */,
+				E7FE6A9E1CEB527B00AAE994 /* working_with_openhab */,
+				E7FE6A9F1CEB527B00AAE994 /* working_with_persistence */,
+				E7FE6AA01CEB527B00AAE994 /* working_with_rules_and_scripts */,
+				E7FE6AA11CEB527B00AAE994 /* z-wave_and_habadmin */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		E76E76D91CEB51AC00C96B33 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = E76E76DC1CEB51AC00C96B33 /* Build configuration list for PBXProject "openhab2-compendium" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = E76E76D81CEB51AC00C96B33;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		E76E76DD1CEB51AC00C96B33 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		E76E76DE1CEB51AC00C96B33 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E76E76DC1CEB51AC00C96B33 /* Build configuration list for PBXProject "openhab2-compendium" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E76E76DD1CEB51AC00C96B33 /* Debug */,
+				E76E76DE1CEB51AC00C96B33 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E76E76D91CEB51AC00C96B33 /* Project object */;
+}
