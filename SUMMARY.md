@@ -21,7 +21,7 @@
    * [Looking to the logs](10 Users manual/30 Working with openhab/70 looking_to_the_logs/looking_to_the_logs.md)
 * [Advanced OpenHab](advanced_openhab.md)
    * Advanced Rules and Scripts
-* [Tricks and troubleshooting](Tricks_and_troubleshooting/tricks_and_troubleshooting.md)
+* [Cookbook introduction](Tricks_and_troubleshooting/tricks_and_troubleshooting.md)
 * [Z-Wave and HABmin](z-wave_and_habadmin/z-wave_and_habadmin.md)
    * [Installing the extensions](Installing_the_extension/installing_the_extensions.md)
    * [Connecting to the Z-Wave controler](Connecting_to_the_z-wave_controler/connecting_to_the_z-wave_controler.md)
